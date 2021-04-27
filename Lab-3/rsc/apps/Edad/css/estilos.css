@@ -1,0 +1,45 @@
+html, body { 
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    background: #283747;
+    overflow: hidden; /*ocultamos el scroll horizontal del navegador*/
+}
+
+#calcular{
+	position: relative;
+	background: #48C9B0;
+	border-radius: 10px;
+	font-style: bold;
+	font-size: 16px;
+	margin: auto;
+	left: 90px;
+	top: 170px;
+}
+
+#edad{
+	position: relative;
+	border-radius: 20px;
+	margin: auto;
+	left: 35px;
+	top: 160px;	
+}
+
+#ingt{
+	position: relative;
+	color: #FDFEFE;
+	margin: auto;
+	top: 152px; 
+	left: 32px;
+}
+
+#respuesta{
+	position: relative;
+	color: #FDFEFE;
+	margin: auto;
+	top: 172px; 
+	left: 80px;
+}
+
